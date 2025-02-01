@@ -1,2 +1,3 @@
-# Navigator_GameSubmissionnn
-Navigator_GameSubmission
+# brick_breaker
+
+A new Flutter project.
